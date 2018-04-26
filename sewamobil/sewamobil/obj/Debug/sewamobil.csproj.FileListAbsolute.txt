@@ -1,0 +1,6 @@
+c:\users\cpu\documents\visual studio 2015\Projects\sewamobil\sewamobil\bin\Debug\sewamobil.exe.config
+c:\users\cpu\documents\visual studio 2015\Projects\sewamobil\sewamobil\obj\Debug\sewamobil.csprojResolveAssemblyReference.cache
+c:\users\cpu\documents\visual studio 2015\Projects\sewamobil\sewamobil\bin\Debug\sewamobil.exe
+c:\users\cpu\documents\visual studio 2015\Projects\sewamobil\sewamobil\bin\Debug\sewamobil.pdb
+c:\users\cpu\documents\visual studio 2015\Projects\sewamobil\sewamobil\obj\Debug\sewamobil.exe
+c:\users\cpu\documents\visual studio 2015\Projects\sewamobil\sewamobil\obj\Debug\sewamobil.pdb
