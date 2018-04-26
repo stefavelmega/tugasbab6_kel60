@@ -58,7 +58,7 @@ namespace sewamobil
                         hitunglagi(dua, lama);
                         break;
                     case (3):
-                        int tiga = 500000;
+                        int tiga = 650000; //kugantiyaharganya
                         Console.Write("Masukkan Lama Sewa [/hari] : ");
                         b = Console.ReadLine();
                         int.TryParse(b, out lama);
